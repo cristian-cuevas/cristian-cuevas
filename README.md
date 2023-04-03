@@ -50,9 +50,10 @@ Acerca de mí:
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github"
         alt="github" width="40" height="40">&nbsp;
 </div>
+
 - - -
 
-Mi estado:
+<h3>Mi estado:</h3>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=cristian-cuevas&theme=javascript-dark&hide_border=true&locale=es&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
 
