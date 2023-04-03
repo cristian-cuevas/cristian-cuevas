@@ -1,5 +1,5 @@
  
- https://media1.giphy.com/media/MFabj1E9mgUsqwVWHu/200w.webp?cid=ecf05e47t6s8hauz640cvz0qr5biigu0w0duzphfyoy3dz8l&rid=200w.webp&ct=g
+<iframe src="https://giphy.com/embed/MFabj1E9mgUsqwVWHu" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/bitcoin-visuals-network-MFabj1E9mgUsqwVWHu">via GIPHY</a></p>
  
  ¡Hola! 👋 Soy un desarrollador recién iniciado en el mundo del desarrollo, pero con muchas ganas de aprender y aportar a proyectos interesantes. Me considero una persona responsable, perseverante y que le gustan los desafíos. Trabajar en equipo es algo que disfruto, ya que creo que cada miembro puede aportar sus propias ideas y habilidades para lograr los objetivos de manera más efectiva.
 
