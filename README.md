@@ -1,3 +1,6 @@
+ 
+ https://media1.giphy.com/media/MFabj1E9mgUsqwVWHu/200w.webp?cid=ecf05e47t6s8hauz640cvz0qr5biigu0w0duzphfyoy3dz8l&rid=200w.webp&ct=g
+ 
  ¡Hola! 👋 Soy un desarrollador recién iniciado en el mundo del desarrollo, pero con muchas ganas de aprender y aportar a proyectos interesantes. Me considero una persona responsable, perseverante y que le gustan los desafíos. Trabajar en equipo es algo que disfruto, ya que creo que cada miembro puede aportar sus propias ideas y habilidades para lograr los objetivos de manera más efectiva.
 
 Estoy en constante capacitación día a día, ya que creo que el aprendizaje continuo es clave para crecer en este campo. Me gusta estar al día con las últimas tecnologías y herramientas, y aplicarlas en proyectos prácticos.
