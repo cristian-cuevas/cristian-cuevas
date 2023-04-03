@@ -1,4 +1,4 @@
- <iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">via GIPHY</a></p>
+ <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">via GIPHY</a></p>
 
  
  ¡Hola! 👋 Soy un desarrollador recién iniciado en el mundo del desarrollo, pero con muchas ganas de aprender y aportar a proyectos interesantes. Me considero una persona responsable, perseverante y que le gustan los desafíos. Trabajar en equipo es algo que disfruto, ya que creo que cada miembro puede aportar sus propias ideas y habilidades para lograr los objetivos de manera más efectiva.
