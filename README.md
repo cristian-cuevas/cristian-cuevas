@@ -57,7 +57,15 @@ Acerca de mí:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=cristian-cuevas&theme=javascript-dark&hide_border=true&locale=es&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
 
+- - -
+
 ![cristian-cuevas GitHub stats](https://github-readme-stats.vercel.app/api?username=cristian-cuevas&show_icons=true&theme=radical)
+
+- - -
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristian-cuevas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<div id="header" align="center">
+<img src="https://media.giphy.com/media/MGdfeiKtEiEPS/giphy.gif" alt="" width="300">
+</div>
